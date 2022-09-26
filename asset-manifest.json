@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lgmvip-registration-form/static/css/main.e635e8c1.css",
+    "main.js": "/lgmvip-registration-form/static/js/main.102f7826.js",
+    "static/js/787.36ba322c.chunk.js": "/lgmvip-registration-form/static/js/787.36ba322c.chunk.js",
+    "index.html": "/lgmvip-registration-form/index.html",
+    "main.e635e8c1.css.map": "/lgmvip-registration-form/static/css/main.e635e8c1.css.map",
+    "main.102f7826.js.map": "/lgmvip-registration-form/static/js/main.102f7826.js.map",
+    "787.36ba322c.chunk.js.map": "/lgmvip-registration-form/static/js/787.36ba322c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e635e8c1.css",
+    "static/js/main.102f7826.js"
+  ]
+}
